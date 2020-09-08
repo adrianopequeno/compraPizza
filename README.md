@@ -1,0 +1,1 @@
+Projeto a fins de estudo de uma sistema de pizzaria utilizando JavaScripr Vanilla, HTML5 e CSS3 com flexbox.
